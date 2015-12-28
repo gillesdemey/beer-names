@@ -1,4 +1,4 @@
-# beer-names
+# beer-names [![Build Status](https://travis-ci.org/gillesdemey/beer-names.svg)](https://travis-ci.org/gillesdemey/beer-names)
 
 > Get a unique random name that sounds like it could be a beer
 

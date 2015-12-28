@@ -1,8 +1,9 @@
 {
   "name": "beer-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a unique random name that sounds like it could be a beer",
   "main": "index.js",
+  "repository": "gillesdemey/beer-names",
   "dependencies": {
     "meow": "^3.6.0",
     "unique-random-array": "^1.0.0"
