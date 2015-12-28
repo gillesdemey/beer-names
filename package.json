@@ -1,0 +1,25 @@
+{
+  "name": "beer-names",
+  "version": "1.0.0",
+  "description": "Get a unique random name that sounds like it could be a beer",
+  "main": "index.js",
+  "dependencies": {
+    "meow": "^3.6.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "beer",
+    "random",
+    "name",
+    "generator"
+  ],
+  "author": "Gilles De Mey <gilles.de.mey@gmail.com>",
+  "bin": "cli.js",
+  "license": "ISC"
+}
