@@ -48,7 +48,7 @@ $ beer-names --help
 
 ## Related
 
-- [cat-names] (https://github.com/sindresorhus/cat-names) - Get popular cat names
+- [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names
 - [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words
 - [superheroes](https://github.com/sindresorhus/superheroes) - Get superhero names
